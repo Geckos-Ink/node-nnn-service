@@ -1,0 +1,24 @@
+{
+  "name": "nnn-services",
+  "version": "0.0.1",
+  "description": "[Temporary placeholder] node services manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geckos-Ink/node-nnn-service.git"
+  },
+  "keywords": [
+    "node",
+    "services",
+    "manager"
+  ],
+  "author": "Gecko's Ink <cekkr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Geckos-Ink/node-nnn-service/issues"
+  },
+  "homepage": "https://github.com/Geckos-Ink/node-nnn-service#readme"
+}
